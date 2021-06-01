@@ -1,2 +1,6 @@
 Flask==0.12.2
 requests==2.18.1
+werkzeug==0.16.1
+bson
+flask-pymongo
+pymongo==3.4.0
